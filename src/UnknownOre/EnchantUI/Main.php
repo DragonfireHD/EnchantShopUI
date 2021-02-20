@@ -20,7 +20,7 @@ use UnknownOre\EnchantUI\libs\jojoe77777\FormAPI\{
 };
 use pocketmine\plugin\PluginBase;
 use onebone\economyapi\EconomyAPI;
-use DaPigGuy\PiggyCustomEnchants\CustomEnchants\CustomEnchants;
+use DaPigGuy\PiggyCustomEnchants\PiggyCustomEnchants;
 
 /**
  * Class Main

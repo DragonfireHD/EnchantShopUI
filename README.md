@@ -3,9 +3,11 @@
 a simple enchantment shop 
 
 ## Important
+[x] Version: 0.6
 
 - Requires EconomyAPI by ONEBONE
 
 ## Devs/Info
 - Made by: UnknownOre
+- Fixed from DragonfireHD98
 

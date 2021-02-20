@@ -3,7 +3,7 @@ main: UnknownOre\EnchantUI\Main
 version: 0.6
 api: 3.0.0
 load: POSTWORLD
-author: UnknownOre
+author: UnknownOre, DragonfireHD98
 permissions:
   eshop.command:
     default: true
